@@ -31,8 +31,7 @@ These steps helped create a clean and structured dataset for analysis and visual
 
 ## 📊 Dashboard Preview
 Here is a preview of the Excel dashboard visualizing remote work and mental health data:
-![Remote Work Dashboard](<img width="1358" height="550" alt="Remote work and Mental Health Dashboard" src="https://github.com/user-attachments/assets/4f4f82d9-fc3b-4f45-b6f3-2dd15009ef5a" />
-)
+![Remote Work Dashboard](https://github.com/GloriaCodes-datanalyst/Remote-Work-and-Mental-Health-Excel-dashboard-/blob/main/Remote%20work%20and%20Mental%20Health%20Dashboard.png)
 
 
 ## 🧠 Key Insights
