@@ -29,6 +29,12 @@ Before analysis, the dataset was cleaned using Excel to ensure data quality and 
 
 These steps helped create a clean and structured dataset for analysis and visualization.
 
+## 📊 Dashboard Preview
+Here is a preview of the Excel dashboard visualizing remote work and mental health data:
+![Remote Work Dashboard](<img width="1358" height="550" alt="Remote work and Mental Health Dashboard" src="https://github.com/user-attachments/assets/4f4f82d9-fc3b-4f45-b6f3-2dd15009ef5a" />
+)
+
+
 ## 🧠 Key Insights
 - **76.08%** of participants reported experiencing mental health challenges.
 - Only **48.94%** of respondents had access to mental health support services.
